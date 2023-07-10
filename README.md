@@ -3,3 +3,7 @@
 # Collaborators #
 - Jonathan
 - Johann
+
+# Instructors #
+- Travis
+- Abdul
