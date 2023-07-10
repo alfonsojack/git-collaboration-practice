@@ -1,2 +1,5 @@
 # READ ME #
-# READ AGAIN #
+
+# Collaborators #
+- Jonathan
+- Johann
